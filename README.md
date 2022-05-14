@@ -1,0 +1,2 @@
+# Singleton
+Singleton implementation options
